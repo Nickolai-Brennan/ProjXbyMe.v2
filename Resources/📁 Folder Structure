@@ -1,0 +1,22 @@
+Resources/
+├── Bookmarks/
+│   ├── Articles/
+│   ├── Tools/
+│   ├── Guides/
+│   └── Community Links/
+├── Instruction Manuals/
+│   ├── Software/
+│   ├── Hardware/
+│   └── Online Tools/
+├── Links/
+│   ├── Resource Websites/
+│   ├── Educational Videos/
+│   └── Blogs/
+├── Guides/
+│   ├── How-Tos/
+│   ├── Best Practices/
+│   └── Quick Reference/
+└── Etc/
+    ├── Miscellaneous/
+    ├── Personal Notes/
+    └── Archived Resources/
